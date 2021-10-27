@@ -1,8 +1,9 @@
 plugins {
     id 'java'
+    id 'maven'
 }
 
-group 'org.example'
+group 'com.github.LauraOD1211'
 version '1.0-SNAPSHOT'
 
 repositories {
