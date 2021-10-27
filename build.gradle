@@ -21,3 +21,15 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId = 'com.github.LauraOD1211'
+            artifactId = 'SoftwareEngAssignment1PartA'
+            version = '1.0-SNAPSHOT'
+
+            from components.java
+        }
+    }
+}
