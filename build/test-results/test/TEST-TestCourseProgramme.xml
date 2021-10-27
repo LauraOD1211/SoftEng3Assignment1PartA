@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCourseProgramme" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-27T20:39:22" hostname="DESKTOP-35AI8CO" time="0.021">
+  <properties/>
+  <testcase name="testEndDate()" classname="TestCourseProgramme" time="0.015"/>
+  <testcase name="testStudents()" classname="TestCourseProgramme" time="0.001"/>
+  <testcase name="testStartDate()" classname="TestCourseProgramme" time="0.001"/>
+  <testcase name="testName()" classname="TestCourseProgramme" time="0.0"/>
+  <testcase name="testModules()" classname="TestCourseProgramme" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
